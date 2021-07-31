@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<sys/time.h>
 
-//Selection Sorting
+//Insertion Sorting
 void insertionsort(int array[], int size, int type){
 	
 	// Loop to traverse through the array 
